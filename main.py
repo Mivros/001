@@ -1,3 +1,5 @@
+const keep_alive = require(`./keep_alive.js`);
+
 from highrise import *
 from highrise.models import *
 from asyncio import run as arun
